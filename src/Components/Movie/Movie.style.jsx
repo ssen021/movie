@@ -1,4 +1,3 @@
-
 import styled from 'styled-components';
 
 
@@ -18,6 +17,7 @@ export const App_container = styled.div`
   flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
+
 `;
 
 export const Movie_container = styled.div`

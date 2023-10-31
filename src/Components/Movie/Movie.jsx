@@ -1,4 +1,3 @@
-
 import { Body , Movie_container, Movie_section, Poster, Text_section, Title, Vote_average
   ,Des_container,Des_section, Des_title, Overview , App_container
 } from './Movie.style';
